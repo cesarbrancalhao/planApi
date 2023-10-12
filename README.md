@@ -1,2 +1,2 @@
-# TodoList
-To-do List application with Spring Boot and Maven.
+# To-do List
+To-do List application with Java, Spring Boot, Maven and H2.
