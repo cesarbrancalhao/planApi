@@ -1,5 +1,5 @@
-# To-do List
-To-do List application with Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
+# PlanAPI
+To-do application with Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
 
 ## Usage
 
