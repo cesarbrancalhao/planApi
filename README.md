@@ -1,5 +1,5 @@
 # PlanAPI
-To-do application with Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
+Managment application built in Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
 
 ## Usage
 
@@ -51,3 +51,19 @@ To-do application with Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
       "title": "New title"
   }
   ```
+
+## Stacks
+
+- [Java](https://www.oracle.com/java)
+  
+- [Spring Boot](https://spring.io/projects/spring-boot)
+  
+- [Maven](https://maven.apache.org/)
+  
+- [H2](https://www.h2database.com/)
+  
+- [Lombok](https://projectlombok.org/)
+  
+- [Docker](https://www.docker.com/)
+  
+- [Render](https://render.com/)
