@@ -1,5 +1,5 @@
 # PlanAPI
-Managment application built in Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
+Management application built in Java, Spring Boot, Maven, H2, Lombock, Docker and Render.
 
 ## Usage
 
